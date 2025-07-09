@@ -1,0 +1,74 @@
+{
+    "RandomForest_trained_on_dataset1_train_std": {
+        "Accuracy": 0.8775724976613658,
+        "Precision": 0.7975150456222093,
+        "Recall": 0.9990272373540856,
+        "F1-Score": 0.8869696642556407
+    },
+    "NaiveBayes_trained_on_dataset1_train_std": {
+        "Accuracy": 0.9547474275023387,
+        "Precision": 0.9548229548229549,
+        "Recall": 0.9508754863813229,
+        "F1-Score": 0.952845132204216
+    },
+    "XGBoost_trained_on_dataset1_train_std": {
+        "Accuracy": 0.877689429373246,
+        "Precision": 0.7998826291079812,
+        "Recall": 0.9944066147859922,
+        "F1-Score": 0.8866001734605378
+    },
+    "RandomForest_trained_on_dataset2_train_std": {
+        "Accuracy": 0.8788587464920486,
+        "Precision": 0.7988729109988341,
+        "Recall": 0.9997568093385214,
+        "F1-Score": 0.8880967811622381
+    },
+    "NaiveBayes_trained_on_dataset2_train_std": {
+        "Accuracy": 0.9416510757717493,
+        "Precision": 0.9654728162844628,
+        "Recall": 0.9112354085603113,
+        "F1-Score": 0.9375703740773177
+    },
+    "XGBoost_trained_on_dataset2_train_std": {
+        "Accuracy": 0.8786248830682881,
+        "Precision": 0.8007827788649706,
+        "Recall": 0.995136186770428,
+        "F1-Score": 0.8874430709173715
+    },
+    "RandomForest_trained_on_dataset3_train_std": {
+        "Accuracy": 0.8779232927970065,
+        "Precision": 0.7976329064804035,
+        "Recall": 0.9997568093385214,
+        "F1-Score": 0.8873300237427153
+    },
+    "NaiveBayes_trained_on_dataset3_train_std": {
+        "Accuracy": 0.8685687558465855,
+        "Precision": 0.793401413982718,
+        "Recall": 0.9824902723735408,
+        "F1-Score": 0.8778791829639288
+    },
+    "XGBoost_trained_on_dataset3_train_std": {
+        "Accuracy": 0.8786248830682881,
+        "Precision": 0.8000780944943382,
+        "Recall": 0.9965953307392996,
+        "F1-Score": 0.8875893437296946
+    },
+    "RandomForest_trained_on_dataset4_train_std": {
+        "Accuracy": 0.9894761459307764,
+        "Precision": 0.9953201970443349,
+        "Recall": 0.9827334630350194,
+        "F1-Score": 0.9889867841409692
+    },
+    "NaiveBayes_trained_on_dataset4_train_std": {
+        "Accuracy": 0.9631665107577175,
+        "Precision": 0.990949056115852,
+        "Recall": 0.9319066147859922,
+        "F1-Score": 0.9605213685925554
+    },
+    "XGBoost_trained_on_dataset4_train_std": {
+        "Accuracy": 0.9871375116931712,
+        "Precision": 1.0,
+        "Recall": 0.9732490272373541,
+        "F1-Score": 0.9864431846191767
+    }
+}

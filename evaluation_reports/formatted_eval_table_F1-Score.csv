@@ -1,0 +1,5 @@
+Dataset,NaiveBayes,RandomForest,XGBoost
+dataset1,0.9528,0.887,0.8866
+dataset2,0.9376,0.8881,0.8874
+dataset3,0.8779,0.8873,0.8876
+dataset4,0.9605,0.989,0.9864
