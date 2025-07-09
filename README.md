@@ -105,9 +105,9 @@ Dự án này xây dựng một hệ thống sử dụng các thuật toán họ
     Mở trình duyệt và truy cập: `http://127.0.0.1:5000`
 
 ---
-
+```markdown
 ## Cấu trúc Thư mục chính
-    ```bash
+```
 SQL_INJECTION_DETECTOR/
 ├── data/
 │   ├── dataset1.csv                     # File dataset gốc 1
