@@ -107,6 +107,7 @@ Dự án này xây dựng một hệ thống sử dụng các thuật toán họ
 ---
 
 ## Cấu trúc Thư mục chính
+```
 
 SQL_INJECTION_DETECTOR/
 ├── data/
@@ -140,6 +141,7 @@ SQL_INJECTION_DETECTOR/
 ├── prepare_common_test_set.py         # Script chuẩn bị dữ liệu từ file gốc
 ├── requirements.txt                   # Danh sách thư viện
 └── README.md                          # File hướng dẫn
+```
 
 ---
 
