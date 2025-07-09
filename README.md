@@ -105,20 +105,20 @@ Dự án này xây dựng một hệ thống sử dụng các thuật toán họ
     Mở trình duyệt và truy cập: `http://127.0.0.1:5000`
 
 ---
-```markdown
+
 ## Cấu trúc Thư mục chính
-```
+
 SQL_INJECTION_DETECTOR/
 ├── data/
 │   ├── dataset1.csv                     # File dataset gốc 1
 │   ├── dataset2.csv                     # File dataset gốc 2
 │   ├── dataset3.csv                     # File dataset gốc 3
 │   ├── dataset4.csv                     # File dataset gốc 4
-│   ├── dataset1_train_std.csv           # Dữ liệu huấn luyện đã chuẩn hóa từ dataset1
-│   ├── dataset2_train_std.csv           # Dữ liệu huấn luyện đã chuẩn hóa từ dataset2
-│   ├── dataset3_train_std.csv           # Dữ liệu huấn luyện đã chuẩn hóa từ dataset3
-│   ├── dataset4_train_std.csv           # Dữ liệu huấn luyện đã chuẩn hóa từ dataset4
-│   └── datatest.csv                     # Bộ dataset kiểm thử chung, đã chuẩn hóa
+│   ├── dataset1_train_std.csv           # Dữ liệu huấn luyện đã chuẩn hoá từ dataset1
+│   ├── dataset2_train_std.csv           # Dữ liệu huấn luyện đã chuẩn hoá từ dataset2
+│   ├── dataset3_train_std.csv           # Dữ liệu huấn luyện đã chuẩn hoá từ dataset3
+│   ├── dataset4_train_std.csv           # Dữ liệu huấn luyện đã chuẩn hoá từ dataset4
+│   └── datatest.csv                     # Bộ dataset kiểm thử chung, đã chuẩn hoá
 ├── model/
 │   ├── vectorizer_datasetX_train_std.pkl
 │   ├── RandomForest_datasetX_train_std.pkl
@@ -134,13 +134,13 @@ SQL_INJECTION_DETECTOR/
 │   ├── formatted_eval_table_Precision.csv
 │   ├── formatted_eval_table_Recall.csv
 │   └── formatted_eval_table_F1-Score.csv
-├── app.py                     # Backend ứng dụng web Flask
-├── training.py                # Script huấn luyện model và đánh giá trên common test
-├── evaluation_reporter.py     # Script tạo bảng báo cáo hiệu suất
-├── prepare_common_test_set.py # Script chuẩn bị dữ liệu từ file gốc
-├── requirements.txt           # Danh sách thư viện 
-└── README.md                  # File hướng dẫn
-    ```
+├── app.py                             # Backend ứng dụng web Flask
+├── training.py                        # Script huấn luyện model và đánh giá trên common test
+├── evaluation_reporter.py             # Script tạo bảng báo cáo hiệu suất
+├── prepare_common_test_set.py         # Script chuẩn bị dữ liệu từ file gốc
+├── requirements.txt                   # Danh sách thư viện
+└── README.md                          # File hướng dẫn
+
 ---
 
 ## Dataset
