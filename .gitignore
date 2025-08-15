@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.venv/
+env/
+
+# macOS
+.DS_Store
+
+# Project-generated artifacts
+model/*.pkl
+model/evaluation_results_on_common_test.json
+data/*_train_std.csv
+data/datatest.csv
