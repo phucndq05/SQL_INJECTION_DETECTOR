@@ -18,4 +18,4 @@
 
 ---
 
-<p align="center"><i>Machine LearningによるSQLインジェクション検知システム — with English & Japanese documentation</i></p>
+<p align="center"><i>SQL Injection Detection System using Machine Learning — with English & Japanese documentation</i></p>
